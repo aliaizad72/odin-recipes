@@ -1,0 +1,1 @@
+The main goal of this project is to practice and implement basic HTML skills to produce a website that contains a few cooking recipe.
