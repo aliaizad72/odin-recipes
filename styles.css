@@ -17,6 +17,7 @@ img {
    margin-right: auto;
 }
 
-.dish-pages {
-    display: inline;
+div {
+    margin: 0 auto;
+    width: fit-content;
 }
