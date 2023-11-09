@@ -16,3 +16,8 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.icons {
+    height: auto;
+    width: 350px;
+}
