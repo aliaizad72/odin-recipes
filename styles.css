@@ -15,9 +15,20 @@ h1 {
 body {
     display: flex;
     flex-direction: column;
+    height: 100vh;
+    margin: 0;
 }
 
 .icons {
     height: auto;
     width: 350px;
+}
+
+.outer-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.inner-container {
+    display: flex;
 }
