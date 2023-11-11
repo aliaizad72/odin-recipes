@@ -39,7 +39,7 @@ body {
 }
 
 #title-container {
-    margin: 50px 0 100px 0;
+    margin: 25px 0 50px 0;
 }
 
 div a{
@@ -55,11 +55,7 @@ div a{
     font-size: 60px;
 }
 
-.upper-section {
-   
-}
-
 #nasi-lemak-title {
-    background-color: #4b6103;
-    color: white;
+    background-color: #68864D;
+    color: #F4F1E5;
 }
