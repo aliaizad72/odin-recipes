@@ -1,5 +1,10 @@
+@font-face {
+    font-family: "Dreaming Outloud";
+    src: url("./fonts/dreaming.otf") format('opentype');
+}
+
 * {
-    font-family: 'Playpen Sans', cursive;
+    font-family: "Dreaming Outloud";
     background-color: #EFE7DD;
     color: black;
 }
@@ -53,6 +58,7 @@ div a{
 
 .title {
     font-size: 60px;
+    padding: 40px 50px;
 }
 
 #nasi-lemak-title {
