@@ -1,0 +1,8 @@
+SPLIT a page into TWO divs
+    SPLIT the first div into 2 more divs
+    SPLIT the second div into 3 more divs
+
+CLASS the first and second div 'outer-sections'
+
+MAKE both outer sections a flexbox
+
