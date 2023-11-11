@@ -51,14 +51,17 @@ div a{
     text-decoration: none;
 }
 
-.title-icon {
+.title-icon{
     height: auto;
-    width: 400px;
+    width: 300px;
+    background-color: #68864D;
 }
 
 .title {
     font-size: 60px;
-    padding: 40px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 #nasi-lemak-title {
