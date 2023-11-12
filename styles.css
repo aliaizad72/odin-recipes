@@ -21,6 +21,7 @@ body {
     height: 100vh;
     margin: 0;
     font-size: 20px;
+    justify-content: space-between;
 }
 
 .icons {
@@ -32,6 +33,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 30px;
+    flex-grow: 1;
 }
 
 .inner-container {
@@ -79,9 +81,16 @@ div a{
     padding: 20px;
 }
 
+headers {
+    font-size: 35px;
+}
+
 .nasi-lemak-headers {
     color: #68864D;
-    font-size: 35px;
+}
+
+.kaya-toast-headers {
+    color: #D4B57B;
 }
 
 .ingre-and-steps {
@@ -91,4 +100,9 @@ div a{
 
 .steps {
     max-width: 50%;
+}
+
+.kaya-toast {
+    background-color: #D4B57B;
+    color: #EFE7DD;
 }
