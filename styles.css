@@ -55,16 +55,31 @@ div a{
     height: auto;
     width: 300px;
     background-color: #68864D;
+    margin-right: -45px;
 }
 
 .title {
     font-size: 60px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
-#nasi-lemak-title {
+#nasi-lemak-title,
+#nasi-lemak-source {
     background-color: #68864D;
     color: #F4F1E5;
+}
+
+.lower-section,
+.title {
+    padding: 0 10% 0 10%;
+}
+
+.footer {
+    font-size: 25px;
+    background-color: #68864D;
+    color: #F4F1E5;
+    text-align: center;
+    padding: 20px;
 }
