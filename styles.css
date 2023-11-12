@@ -15,8 +15,6 @@ h1 {
     color: #68864D;
 }
 
-
-
 body {
     display: flex;
     flex-direction: column;
@@ -55,7 +53,6 @@ div a{
 .title-icon{
     height: auto;
     width: 300px;
-    background-color: #68864D;
     margin-right: -45px;
 }
 
@@ -66,8 +63,7 @@ div a{
     justify-content: space-between;
 }
 
-#nasi-lemak-title,
-#nasi-lemak-source {
+.nasi-lemak {
     background-color: #68864D;
     color: #F4F1E5;
 }
@@ -79,8 +75,6 @@ div a{
 
 .footer {
     font-size: 25px;
-    background-color: #68864D;
-    color: #F4F1E5;
     text-align: center;
     padding: 20px;
 }
