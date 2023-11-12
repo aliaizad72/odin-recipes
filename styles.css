@@ -22,6 +22,7 @@ body {
     flex-direction: column;
     height: 100vh;
     margin: 0;
+    font-size: 20px;
 }
 
 .icons {
@@ -82,4 +83,18 @@ div a{
     color: #F4F1E5;
     text-align: center;
     padding: 20px;
+}
+
+.nasi-lemak-headers {
+    color: #68864D;
+    font-size: 35px;
+}
+
+.ingre-and-steps {
+    display: flex;
+    justify-content: space-between;
+}
+
+.steps {
+    max-width: 50%;
 }
